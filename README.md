@@ -1,4 +1,4 @@
-# vue-test
+# Vue list of elements
 
 > A Vue.js project
 
